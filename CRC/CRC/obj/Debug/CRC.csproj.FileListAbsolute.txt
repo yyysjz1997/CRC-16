@@ -1,0 +1,8 @@
+D:\C#\CRC\CRC\bin\Debug\CRC.exe
+D:\C#\CRC\CRC\bin\Debug\CRC.pdb
+D:\C#\CRC\CRC\obj\Debug\CRC.csprojResolveAssemblyReference.cache
+D:\C#\CRC\CRC\obj\Debug\CRC.CRC.resources
+D:\C#\CRC\CRC\obj\Debug\CRC.csproj.GenerateResource.Cache
+D:\C#\CRC\CRC\obj\Debug\CRC.csproj.CoreCompileInputs.cache
+D:\C#\CRC\CRC\obj\Debug\CRC.exe
+D:\C#\CRC\CRC\obj\Debug\CRC.pdb
